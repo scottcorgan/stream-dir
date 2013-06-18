@@ -1,0 +1,22 @@
+{
+  "name": "stream-dir",
+  "version": "0.1.0",
+  "description": "Stream a directory recursively.",
+  "main": "stream-dir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "stream",
+    "directory",
+    "recursive"
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD",
+  "dependencies": {
+    "through": "~2.3.4",
+    "async": "~0.2.9",
+    "walk": "~2.2.1"
+  }
+}
