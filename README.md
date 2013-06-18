@@ -18,8 +18,10 @@ streamDir('path/to/directory').pipe(process.stdout);
 
 ## Todo
 
-* Add options for not recursive stream
+* Add options for non-recursive stream
+* Add option for file reading?
 
 ## Changelog
 
-* **0.1.0** - Initial release with base stream support.
+* **0.1.0**
+  * Initial release with basic stream support.
