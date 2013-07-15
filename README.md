@@ -4,9 +4,7 @@ Stream directories recursively.
 
 ## Install
 
-```
-npm install stream-dir --save
-```
+[![NPM](https://nodei.co/npm/stream-dir.png)](https://nodei.co/npm/stream-dir/)
 
 ## Usage
 
