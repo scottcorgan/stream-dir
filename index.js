@@ -2,7 +2,6 @@ var path = require('path');
 var fs = require('fs');
 var assert = require('assert');
 var through = require('through');
-var async = require('async');
 var walk = require('walk');
 
 //

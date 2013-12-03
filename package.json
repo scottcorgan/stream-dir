@@ -1,8 +1,8 @@
 {
   "name": "stream-dir",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stream a directory recursively.",
-  "main": "stream-dir.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,10 +13,9 @@
     "recursive"
   ],
   "author": "Scott Corgan",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "through": "~2.3.4",
-    "async": "~0.2.9",
     "walk": "~2.2.1"
   }
 }
